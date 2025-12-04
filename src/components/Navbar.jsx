@@ -98,7 +98,7 @@ const Navbar = ({
           >
             <a href="/" onClick={(e) => handleNav(e, "/")} aria-label="Home" className="block">
               <img
-                src="https://sayahomes.com/images/logo.svg"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhCPPpscjGapBW_FtGkCJMIFGPERCSKAp0g&s"
                 alt="Saya Homes Logo"
                 className="w-32 h-auto object-contain"
               />
