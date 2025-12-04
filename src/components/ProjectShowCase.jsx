@@ -1,12 +1,12 @@
 import React, { useEffect, useRef, useState } from "react";
 
 const slideImages = [
-  { url: "https://sayahomes.com/images/south-x/gallery/01_SSX.webp", caption: "Saya South X" },
-  { url: "https://sayahomes.com/images/south-x/gallery/03_SSX.webp", caption: "Saya South X" },
+  { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaVPsL9A49sONCurBJv3gIFik_FmMSHQX4w&s", caption: "Saya South X" },
+  { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwurwDf-RyLkAqG3DEzJqxGZVQGEABnaGqbg&s", caption: "Saya South X" },
   { url: "https://investormart.s3.ap-south-1.amazonaws.com/galery_image/659-1751358239SayaSouthXbanner2webp.webp", caption: "Saya South X" },
-  { url: "https://sayahomes.com/images/south-x/gallery/01_SSX.webp", caption: "Saya South X" },
-  { url: "https://sayahomes.com/images/south-x/gallery/03_SSX.webp", caption: "Saya South X" },
-  { url: "https://investormart.s3.ap-south-1.amazonaws.com/galery_image/659-1751358239SayaSouthXbanner2webp.webp", caption: "Saya South X" },
+  { url: "https://investormart.s3.ap-south-1.amazonaws.com/galery_image/659-1751358255SayaSouthXbanner3webp.webp", caption: "Saya South X" },
+  { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd9RIz5G8F3SL-BMsSFbuj9F8mREoYkoYiBQ&s", caption: "Saya South X" },
+  { url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQewEhY5S60QYIULheQFYLo0Je-eeX1xFifWw&s", caption: "Saya South X" },
 ];
 
 function ProjectShowCase({ height = "h-screen" }) {
