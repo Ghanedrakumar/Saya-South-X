@@ -83,7 +83,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">Ministry Of Beer</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/logo/ministry-of-beer.png" alt="Ministry Of Beer" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXuIA6BWFWe3cGxAQnxSO5Pr7REGObpVYlgA&s" alt="Ministry Of Beer" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
