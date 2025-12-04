@@ -61,7 +61,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">Badamis</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/brand-logos/badamis.webp" alt="Badamis" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5GOrFfO-rEdtm3IAX1KsrbmQHseO_gUhydg&s" alt="Badamis" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
@@ -72,7 +72,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">McDonalds</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/brand-logos/mcdonalds.png" alt="McDonalds" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEgB1v-MSfhfX9y5IinJbLxmkVTdsmWjQI8g&s" alt="McDonalds" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
@@ -94,7 +94,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">Castles Barbeque</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/logo/castle's-barbeque.png" alt="Castles Barbeque" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIBVJPeYy1WGuCeuMeCB_lX3pinQMxR_MIWg&s" alt="Castles Barbeque" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
@@ -105,7 +105,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">Funky Island</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/logo/funky-island.png" alt="Funky Island" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0SQBg4rCEa98T_W6awR5zqsaoVjA-kfPbA&s" alt="Funky Island" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
@@ -116,7 +116,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">Rubarru</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/logo/rubarro-logo.png" alt="Rubarru" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQxjyW9q-7y9ag6W1KoDB1v5PbX8ws32m0Ng&s" alt="Rubarru" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
@@ -127,7 +127,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">The Beer Mug</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/logo/TheBeerMug.webp" alt="The Beer Mug" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cXKWPD4t4BAwK3fSQdqtUU94RFurRX6d8w&s" alt="The Beer Mug" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
@@ -138,7 +138,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">Blaaze</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="https://sayahomes.com/images/logo/blaaze.png" alt="Blaaze" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DviBm4fjMD8jJkZqD6igxYu_R_2qXDVfzg&s" alt="Blaaze" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
