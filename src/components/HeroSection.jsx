@@ -78,7 +78,7 @@ export default function HeroSection() {
           {/* Logo */}
           <div data-anim="top" data-duration="700ms" className="opacity-0">
             <img
-              src="https://sayahomes.com/images/logo-south-x.svg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRjKN_tl51SvkjP_2xvF_SQAJQd5ispgRmw&s"
               alt="Saya South X Logo"
               className="w-56 sm:w-64 md:w-72 h-auto object-contain"
             />

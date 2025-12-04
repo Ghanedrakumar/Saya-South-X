@@ -50,7 +50,7 @@ function Home({
     <div className="w-full max-w-3xl text-center">
 
       <img
-        src="https://sayahomes.com/images/OC-applied.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtB1X4gCAQJGgk7W0Keb9vuy6ZcD2iVHV7OA&s"
         alt="OC applied badge"
         className="mx-auto w-16 h-16 sm:w-20 sm:h-20 rounded-full object-cover mb-4 shadow-lg"
         loading="lazy"
