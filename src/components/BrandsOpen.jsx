@@ -127,7 +127,7 @@ const BrandsOpen = () => {
                   <span className="brandTitle text-sm sm:text-base font-medium">The Beer Mug</span>
                 </div>
                 <div className="brandLogo">
-                  <img src="http://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cXKWPD4t4BAwK3fSQdqtUU94RFurRX6d8w&s" alt="The Beer Mug" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jCxcf8JZh3ji1oc_9eSa-zHcmsjfCojDKA&s" alt="The Beer Mug" className="w-full h-24 object-contain mx-auto transition-transform duration-300 transform hover:scale-105" />
                 </div>
               </a>
             </div>
