@@ -18,6 +18,7 @@ import FloatingCTA from "./FloatingCTA.jsx";
 import LatestNews from "./LatestNews.jsx";
 import LocationAdvantage from "./LocationAdvantage.jsx";
 import Testimonials from "./Testimonials.jsx";
+import PricingList from "./PricingList.jsx";
 function Home({
   title = "Enter the Greater Noida West’s new favourite destination for shopping, dining and lifestyle.",
   subtitle = "Beautiful living spaces designed for your comfort and style.",
@@ -100,6 +101,7 @@ function Home({
       <FacilitiesAmenities />
       <FloorPlansSection />
       <ProjectGalleryCarousel />
+      <PricingList />
 
       <FloatingCTA phone="+911234567890" brochure="https://doc.squareyards.com/ProjectKnowledge/Brochure_d7555bdbe5214e188a63b3f81e54add5.pdf" />
       <LatestNews limit={6} />
